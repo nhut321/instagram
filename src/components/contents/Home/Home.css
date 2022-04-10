@@ -1,0 +1,8 @@
+
+.me-info__avatar {
+	width: 56px;
+	height: 56px;
+	background-size: cover;
+	border-radius: 50%;
+	margin-right: 1rem;
+}

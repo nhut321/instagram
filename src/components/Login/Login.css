@@ -1,0 +1,28 @@
+.login-register {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(180deg, 
+            rgba(23, 147, 244, 1), 
+            rgba(102, 51, 153, 1));
+	height: 100vh;
+}
+
+.log-reg {
+	background-color: white;
+	width: 400px;
+	min-height: 330px;
+	border-radius: 12px;
+}
+
+.log-reg__header {
+	padding: 2rem;
+}
+
+.log-reg__form {
+	padding: 0 1rem 1rem 1rem;
+}
+
+.log-reg__form > form > input {
+	margin: 0 0 1rem 0;
+}
